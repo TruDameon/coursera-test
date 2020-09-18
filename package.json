@@ -1,0 +1,24 @@
+{
+  "name": "coursera-test",
+  "version": "1.0.0",
+  "description": "Coursera Course",
+  "main": "readme.md",
+  "scripts": {
+    "start": "site/index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TruDameon/coursera-test.git"
+  },
+  "keywords": [
+    "Cousera",
+    "Course"
+  ],
+  "author": "Dameon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TruDameon/coursera-test/issues"
+  },
+  "homepage": "https://github.com/TruDameon/coursera-test#readme"
+}
